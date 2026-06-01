@@ -56,7 +56,7 @@
 - 任何完整的中文叙述句，无论多啰嗦都保留。
 
 # 输出结构
-<answer_content>定位替换后的没有拼凑多模out的推理内容</answer_content>
+<answer_content>输出的修改/或未修改的内容</answer_content>
 
 # 示例
 ## 输入片段（节选）
